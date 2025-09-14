@@ -49,7 +49,7 @@ Follow these instructions to get the project running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/Resume_Analyzer.git](https://github.com/your-username/Resume_Analyzer.git)
+git clone [https://github.com/kesava049/fastAPI_resume_analyzer_assignment.git]
 cd Resume_Analyzer
 ```
 

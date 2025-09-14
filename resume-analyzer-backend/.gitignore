@@ -1,0 +1,29 @@
+# --- Environment ---
+# Ignore the virtual environment folder
+/venv
+/.venv
+
+# Ignore the environment variables file (VERY IMPORTANT)
+.env
+
+# --- Python ---
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE / Editor specific ---
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# --- macOS ---
+# Ignore macOS specific files
+.DS_Store
+
+# --- Other ---
+# Ignore any local instance or database files if you were using SQLite
+*.sqlite3
+/instance/
